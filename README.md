@@ -3,7 +3,7 @@ DeathByCupcake series non-fungible asset (NFA) by DeathByCupcake
 
 Copyright 2022 DeathByCupcake. All rights reserved.
 
-SCID: b58045e9248ae63ba9c268a1b7c74e60f7731b65aa94bfd2510de6434404a9f1
+SCID: f9fd83602e85050b6d5e5b0cf382296a6a616ffb4b3a45b8f7c5e7ef4b9579ff
 
 Repository on behalf of DeathByCupcake as requested, with permission.
 
